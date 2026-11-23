@@ -1,16 +1,28 @@
-# acessa_rota
+# AcessaRota ♿
 
-A new Flutter project.
+Aplicativo de mobilidade urbana acessível, desenvolvido com o objetivo de facilitar o deslocamento de pessoas por meio de informações sobre acessibilidade.
 
-## Getting Started
+## 📌 Sobre o projeto
 
-This project is a starting point for a Flutter application.
+O **AcessaRota** é um projeto em desenvolvimento que busca promover uma mobilidade urbana mais inclusiva, ajudando pessoas a encontrarem caminhos que considerem suas necessidades de acessibilidade.
 
-A few resources to get you started if this is your first Flutter project:
+A proposta é oferecer informações sobre condições de trajetos, obstáculos urbanos e recursos de acessibilidade, contribuindo para uma maior autonomia e liberdade de deslocamento.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 Objetivo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desenvolver uma solução tecnológica que auxilie na identificação e escolha de rotas mais acessíveis, incentivando também a colaboração entre usuários na construção de informações sobre a cidade.
+
+## 🛠️ Tecnologias
+
+- Flutter
+- Dart
+
+## 🚧 Status do projeto
+
+Em desenvolvimento.
+
+Atualmente, o projeto está na etapa inicial de construção das interfaces e estruturação do aplicativo.
+
+## 👩‍💻 Desenvolvimento
+
+Projeto desenvolvido individualmente por Yasmim Macedo de Oliveira.
