@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 // import 'screens/home_screen.dart';
-import 'screens/cadastro_screen.dart';
+// import 'screens/cadastro_screen.dart';
+import 'screens/login_screen.dart';
 
 void main() {
   runApp(const AcessaRotaApp());
@@ -23,7 +24,7 @@ class AcessaRotaApp extends StatelessWidget{
 
       // home: const HomeScreen(),
 
-      home: const CadastroScreen(),
+      home: const LoginScreen(),
 
       // home: const Scaffold(
       //   body: Center(
